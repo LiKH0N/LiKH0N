@@ -35,6 +35,6 @@
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Nothing 😑<br>🎯 Goals: SKY🌦️<br>🎲 Fun fact: CTRL+C & CTRL+V😉</p>
 
 ###
-<img src="https://raw.githubusercontent.com/LiKH0N/LiKH0N/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
