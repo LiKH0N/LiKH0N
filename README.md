@@ -37,4 +37,10 @@
 ###
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
+
+<h6 align="center">Profile Views:</h6>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/LiKH0N/count.svg?"  />
+</div>
 ###
