@@ -27,12 +27,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
 </div>
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Nothing 😑<br>🎯 Goals: SKY🌦️<br>🎲 Fun fact: CTRL+C & CTRL+V😉</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning CPP <br>🎯 Goals: SKY🌦️<br>🎲 Fun fact: CTRL+C & CTRL+V😉</p>
 
 ###
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
